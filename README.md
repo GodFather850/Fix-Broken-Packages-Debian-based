@@ -128,5 +128,10 @@ GodFather
 
 ⭐ If this script saved your system, give it a star!
 ---
+
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/> </p>
 
+
+---
+
+![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
