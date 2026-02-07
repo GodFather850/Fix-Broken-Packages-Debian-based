@@ -126,6 +126,7 @@ When nothing else works
 GodFather
 🖤 Linux | Bash | python Learner | Lua (MTA:sa) | SQL
 
----
-p align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/> </p>
 ⭐ If this script saved your system, give it a star!
+---
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/> </p>
+
