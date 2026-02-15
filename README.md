@@ -49,8 +49,8 @@ This script automatically:
 #!/bin/bash
 # Created By GodFather
 # Clean & Update your System for get broken packages
-
-sudo apt clean
+sudo apt autoremove -y
+sudo apt autoclean
 sudo apt update
 
 # Reconfigure your PKGS
